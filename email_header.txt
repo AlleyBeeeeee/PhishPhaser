@@ -1,0 +1,4 @@
+From: Fraud Alert <fraud-alert@secure-bank-login-update.com>
+Return-Path: <attacker-hidden-relay@scamserver.net>
+Received: from unknown (HELO scamserver.net) [192.168.56.101]
+Subject: Security Alert: Unusual Activity Detected

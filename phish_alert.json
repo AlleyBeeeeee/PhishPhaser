@@ -1,0 +1,13 @@
+{
+    "status": "ALERT",
+    "phishing_risk": "HIGH",
+    "source_ip": "192.168.56.101",
+    "from_domain": "secure-bank-login-update.com",
+    "return_domain": "scamserver.net",
+    "action_required": "Block traffic from Source IP 192.168.56.101 immediately.",
+    "threat_intel": {
+        "is_malicious": true,
+        "score": 85,
+        "category": "Botnet/Spam Source"
+    }
+}
