@@ -1,0 +1,5 @@
+From: "Security Alert" <fraud-alert@secure-bank-login-update.com>
+To: abeee@thedigitalchronicles.com
+Subject: CRITICAL: Unauthorized login attempt detected!
+Return-Path: <attacker-hidden-relay@scamserver.net>
+Received: from mail.scamserver.net (unknown [192.168.56.101])
